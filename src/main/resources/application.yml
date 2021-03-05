@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: demo
+  http:
+    services:
+      declarative:
+        url: http://example.com
+      low-level:
+        url: http://example.com
